@@ -1,0 +1,2 @@
+# 14.6_Js_Sirali_Sayi_Yazdirma
+14.6_Js_Sirali_Sayi_Yazdirma
